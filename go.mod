@@ -1,3 +1,3 @@
-module github.com/alexrudd/cognito-srp/v4
+module github.com/bitmark-inc/cognito-srp
 
 go 1.15
